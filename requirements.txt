@@ -1,0 +1,5 @@
+python-gdcm
+matplotlib
+pydicom
+pandas
+scikit-learn
