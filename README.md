@@ -43,6 +43,11 @@ Change the dicom_path variable in the [visualize.py](visualize.py) file to your 
 ```bash
 python visualize.py
 ```
+# Extract the Region of interest and train the model
+```bash
+python bounding_box.ipynb
+python fasterRCNN-model.py
+```
 
 
 
