@@ -42,9 +42,7 @@ Change the dicom_path variable in the [visualize.py](visualize.py) file to your 
 
 ```bash
 python visualize.py
-
-
-
+```
 
 
 
