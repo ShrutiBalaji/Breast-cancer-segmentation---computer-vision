@@ -15,9 +15,9 @@ Steps to run the program
 
 So far, the DICOM images are hashed, the data is split into training and test based on the BIRADS and masses, converted DICOM into numpy format and stored in the folder named preprocessed_data. Model_run code is used to draw the bounding boxes using annotations to train the model on the region of interest.
 
-[<p align="center"><img src=".github/logo-VinBigData-2020-ngang-blue.png" width="300"></p>](https://vindr.ai/)
+
 # VinDr-Mammo: A large-scale benchmark dataset for computer-aided diagnosis in full-field digital mammography
-[<p align="center"><img src=".github/mammo_thumbnail.png" width="400"></p>](https://vindr.ai/datasets/mammo)
+
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
